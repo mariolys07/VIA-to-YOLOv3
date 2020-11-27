@@ -5,7 +5,7 @@ import json
 """
 This script converts VIA (VGG Image Annotator) JSON files to .txt files required for YOLOv3.
 Example:
-python convert_json_to_txt.py --images=path_to_images_folder --json=json_file_path --dest=txt files destination folder
+python via_to_yolo.py --images=path_to_images_folder --json=json_file_path --dest=txt files destination folder
 --attribute=attribute_name_in_via --labels="{\"label0\":0, \"label1\":1, \"label2\":2}" 
 """
 
