@@ -1,5 +1,5 @@
 # VIA to YOLOv3
-This script converts VIA (VGG Image Annotator) JSON files to .txt files required for YOLOv3.
+This script converts VIA ([VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/)) JSON files to .txt files required for [YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3#annotation-folder).
 
 ## Usage 
 ```
